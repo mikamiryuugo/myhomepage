@@ -48,10 +48,8 @@
 export default {
   data () {
     return {
-      msg: `Ruby, Vue.jsがメインのエンジニア。
-      営業職だったが自分の市場価値に疑問を持ち
-      「会社に依存せず『個』の実力をつける。」べくエンジニアに転職。
-      プログラミング学習に苦労しつつも、現在はフリーランスとして働いています。`,
+      msg: `Ruby, Vue.jsメインのエンジニアとして、フリーランスで活動中。
+      ホームページ作成事業も行なっています。`,
       github: 'https://github.com/mikamiryuugo',
       qiita: 'https://qiita.com/ryuuuuuuuuuu',
       profiles: [

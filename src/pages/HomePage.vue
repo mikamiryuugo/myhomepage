@@ -8,7 +8,7 @@
 export default {
   data () {
     return {
-      title: 'My Introduction Site'
+      title: 'ホームページ制作事務所 ミカミ'
     }
   }
 }
