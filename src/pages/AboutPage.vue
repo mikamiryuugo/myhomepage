@@ -53,7 +53,7 @@ export default {
       github: 'https://github.com/mikamiryuugo',
       qiita: 'https://qiita.com/ryuuuuuuuuuu',
       profiles: [
-        {id: 1, title: '2012年~2017年：メーカー営業', description: '青山学院大学卒業後、化学メーカーに入社。大手法人への自社製品の提案・販売を行う。'},
+        {id: 1, title: '2012年~2017年：メーカー営業', description: '青山学院大学卒業後、化学メーカーに入社。大手法人への自社製品の提案・販売などを行う。'},
         {id: 2, title: '2018年~：Web系エンジニア', description: '主にサーバーサイドの開発エンジニアとして様々な案件に参画'},
         {id: 3, title: '2020年~：ホームページ制作', description: '店舗のホームページの受託を開始'},
         {id: 4, title: '2023年~：公式LINE構築', description: '公式LINE構築事業を開始'}
