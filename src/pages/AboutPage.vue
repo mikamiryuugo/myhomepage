@@ -50,8 +50,6 @@ export default {
     return {
       msg: `フリーのWebエンジニアとして活動中。
       公式LINEの構築・ホームページ作成事業も行なっています。`,
-      github: 'https://github.com/mikamiryuugo',
-      qiita: 'https://qiita.com/ryuuuuuuuuuu',
       profiles: [
         {id: 1, title: '2012年~2017年：メーカー営業', description: '青山学院大学卒業後、化学メーカーに入社。大手法人への自社製品の提案・販売を行う。'},
         {id: 2, title: '2018年~：Web系エンジニア', description: '主にサーバーサイドの開発エンジニアとして様々な案件に参画'},
